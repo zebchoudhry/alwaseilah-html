@@ -35,10 +35,13 @@ const TOURS = [
   { slug:'historical-iraq-8-day',               title:'Historical Iraq — 8-Day Classic',                   category:'historical', days:8,  price:1500 },
   { slug:'north-iraq-mosul-kurdistan',          title:'North Iraq Explorer — Mosul, Erbil & Kurdistan',    category:'historical', days:8,  price:1600 },
   { slug:'federal-iraq-kurdistan',              title:'Federal Iraq & Kurdistan — The Grand Tour',          category:'historical', days:16, price:2800 },
+  { slug:'sunni',                               title:'Sunni Heritage — Baghdad, Samarra & Mosul',          category:'sunni',      days:7,  price:1500 },
 ];
 
 // Each entry: { tourSlug, date:'YYYY-MM-DD', seats }
 const DEPARTURES = [
+  { tourSlug:'sunni',                             date:'2026-10-12', seats:9  },
+  { tourSlug:'sunni',                             date:'2027-03-15', seats:12 },
   { tourSlug:'islamic-pilgrimage-najaf-karbala',  date:'2026-10-12', seats:4  },
   { tourSlug:'islamic-pilgrimage-najaf-karbala',  date:'2027-01-18', seats:8  },
   { tourSlug:'islamic-pilgrimage-najaf-karbala',  date:'2027-04-05', seats:3  },
