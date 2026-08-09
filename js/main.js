@@ -19,9 +19,8 @@
    ---------------------------------------------------------- */
 
 const SETTINGS = {
-  whatsapp:   '+96478010002151',   // no spaces or dashes
+  whatsapp:   '+447947138673',   // no spaces or dashes
   phone_uk:   '+44 7947 138673',
-  phone_iraq: '+964 780 100 2151',
   email:      'info@alwaseilahtours.com',
   founded:    2009,
 };

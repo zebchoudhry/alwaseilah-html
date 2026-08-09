@@ -1,7 +1,7 @@
 # Alwaseilah Tours — llms.txt
 
 ## About
-Alwaseilah Tours is a UK-registered guided tour operator specialising in Iraq travel. Founded in 2009 by Adam Jebrin, an Iraqi-born guide based in the UK. Company No. 06860878 (England & Wales).
+Alwaseilah Tours is a UK-based guided tour operator specialising in Iraq travel. Founded in 2009 by Adam Jebrin, an Iraqi-born guide based in the UK.
 
 Site: https://www.alwaseilahtours.com/
 
@@ -10,9 +10,8 @@ We run small-group guided tours to Iraq and the Iraq–Iran pilgrimage route. To
 
 ## Contact
 - UK: +44 7947 138673
-- Iraq: +964 780 100 2151
 - Email: info@alwaseilahtours.com
-- WhatsApp: +96478010002151
+- WhatsApp: +44 7947 138673
 
 ## Tours offered (2026)
 1. Islamic Pilgrimage — Najaf, Karbala & Kufa (10 days, from £1,800 pp)
